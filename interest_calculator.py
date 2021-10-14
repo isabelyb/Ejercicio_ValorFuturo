@@ -58,6 +58,5 @@ def t_period():
     return t_per
 
 
-
 if __name__ == '__main__':
     main()
